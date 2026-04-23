@@ -8,6 +8,8 @@
 
 An iOS news reader that takes complex business, tech, and startup news and explains it in plain, everyday language — in *layman's terms*.
 
+🎥 **[Watch the App Demo Video here](https://drive.google.com/file/d/1fBPSz9OIOcq4wAUQOyyAlutHd1__50So/view?usp=sharing)**
+
 Built with **SwiftUI** | Powered by **Groq AI** | Backed by **Supabase**
 
 ---
