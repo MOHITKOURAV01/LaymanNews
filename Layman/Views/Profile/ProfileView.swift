@@ -379,3 +379,5 @@ struct ProfileView: View {
 // UI polish
 
 // UI polish
+
+// Refactoring
