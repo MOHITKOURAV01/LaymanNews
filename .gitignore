@@ -1,0 +1,19 @@
+# API Keys
+Secrets.xcconfig
+
+# Xcode
+*.xcuserdata/
+DerivedData/
+build/
+*.xcworkspace/xcuserdata/
+
+# macOS
+.DS_Store
+*.swp
+*~
+
+# CocoaPods (if any)
+Pods/
+
+# SPM
+.build/
