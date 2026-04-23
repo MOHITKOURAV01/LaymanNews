@@ -68,3 +68,5 @@ struct ContentCard: View {
 // UI polish
 
 // UI polish
+
+// Refactoring
