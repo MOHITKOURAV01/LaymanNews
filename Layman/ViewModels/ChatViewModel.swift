@@ -75,3 +75,5 @@ final class ChatViewModel {
 // UI polish
 
 // UI polish
+
+// Refactoring
