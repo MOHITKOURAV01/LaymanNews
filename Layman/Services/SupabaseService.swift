@@ -138,3 +138,5 @@ enum SupabaseError: LocalizedError, Sendable {
 // UI polish
 
 // UI polish
+
+// Refactoring
