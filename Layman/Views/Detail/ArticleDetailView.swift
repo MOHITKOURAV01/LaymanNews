@@ -362,3 +362,5 @@ struct ArticleDetailView: View {
 // UI polish
 
 // UI polish
+
+// Refactoring
