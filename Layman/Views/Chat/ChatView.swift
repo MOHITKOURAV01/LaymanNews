@@ -206,3 +206,5 @@ struct TypingIndicator: View {
 // UI polish
 
 // UI polish
+
+// Refactoring
