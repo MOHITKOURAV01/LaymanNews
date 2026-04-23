@@ -128,3 +128,5 @@ struct WelcomeView: View {
 // UI polish
 
 // UI polish
+
+// Refactoring
