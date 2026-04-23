@@ -121,3 +121,5 @@ struct FeaturedCarousel: View {
 // UI polish
 
 // UI polish
+
+// Refactoring
