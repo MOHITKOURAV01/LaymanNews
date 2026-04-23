@@ -122,3 +122,5 @@ struct Article: Codable, Identifiable, Sendable, Hashable {
 // UI polish
 
 // UI polish
+
+// Refactoring
